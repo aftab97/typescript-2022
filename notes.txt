@@ -1,0 +1,9 @@
+--comand to compile file to TS
+tsc --target es5 helloWorld.ts 
+
+--OR if you have tsconfig.json once configured
+tsc
+
+--OR if you have TS installed locally 
+npm i typescipt 
+npx tsc
